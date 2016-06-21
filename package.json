@@ -1,0 +1,29 @@
+{
+  "name": "react-native-enhanced-listview",
+  "version": "0.10.1",
+  "description": "ReactNative ListView for better performance on large dataset",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/39otrebla/react-native-enhanced-listview"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "mobile",
+    "ui",
+    "list-view",
+    "performance"
+  ],
+  "author": "Alberto Dallaporta <alberto@nexustech.solutions> (https://nexustech.solutions)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/39otrebla/react-native-enhanced-listview/issues"
+  },
+  "homepage": "https://github.com/39otrebla/react-native-enhanced-listview#readme"
+}
